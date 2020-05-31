@@ -1,0 +1,163 @@
+@import url('https://fonts.googleapis.com/css?family=Playfair+Display:400,600,600i,700,700i,800,800i&display=swap');
+*{
+    margin: 0;
+    padding: 0;
+    font-family: 'Playfair Display', serif;
+}
+/*font-family: 'Playfair Display', serif;*/
+.header{
+    padding: 10px;
+}
+.navbar {
+    padding: 40px 0;
+}
+.navbar-light .navbar-toggler {
+    color: #ffff;
+}
+
+.navbar-toggler i{
+    color: #000;
+}
+.navbar-nav {
+    font-size: 18px;
+    text-transform: uppercase;
+    font-weight: 600;
+
+}
+.navbar-nav li{
+    padding: 0 20px;
+}
+
+.content{
+   padding: 80px 0;
+}
+.content span{
+    font-size: 15px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-bottom: 15px;
+    display: block;
+}
+.content h1{
+    color: #626262;
+    font-size: 30px;
+    margin-bottom: 30px;
+}
+.content p{
+    color: #626262;
+    line-height: 1.4;
+    margin-bottom: 15px;
+}
+
+
+.lifestyle h1{
+    color: #626262;
+    font-size: 26px;
+    margin-top: 25px;
+    margin-bottom: 40px;
+    font-weight: 600;
+}
+   
+.lifestyle p{
+    color: #626262;
+    line-height: 1.4;
+    margin-bottom: 40px;
+}
+    
+.lifestyle span{
+    font-size: 15px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-top: 30px;
+    display: block;
+}
+
+
+.photodiary h1{
+    color: #626262;
+    font-size: 26px;
+    margin-top: 25px;
+    margin-bottom: 30px;
+    font-weight: 600;
+}
+   
+.photodiary p{
+    color: #626262;
+    line-height: 1.4;
+}
+.photodiary span{
+    font-size: 15px;
+    color: #b4ad9e;
+    text-transform: uppercase;
+    margin-top: 30px;
+    display: block;
+}
+.sign-up{
+    background-color: #f0f0f0;
+    padding: 80px 0;
+}
+.sign-up h2{
+    font-size: 30px;
+    font-weight: 500;
+    color: #626262 !important;
+    padding: 40px 0;
+    text-align: center;
+}
+.input-group{
+    border-bottom: 2px solid;
+}
+.form-custom{
+    border: none;    
+    background-color: transparent;
+}
+.input-group-text{
+    border: none;    
+    background-color: transparent;
+}
+
+
+.btn-custom{
+    font-size: 20px;
+    color: #626262;
+    border: 1px solid #626262;
+    border-radius: 0;
+    padding: 15px 30px;
+}
+
+
+footer{
+    padding: 15px;
+    background-color: #f0f0f0;
+}
+
+
+footer .right{
+	text-align: right;
+}
+footer .right ul li{
+    list-style: none;
+    padding: 10px;
+}
+footer .right ul li a{
+	
+	display: inline-block;	
+    text-decoration: none;
+	font-size: 16px;
+	color: #000;
+}
+footer .left ul li{
+    list-style: none;
+    padding: 10px;
+}
+footer .left ul li a{
+	
+	display: inline-block;	
+    text-decoration: none;
+	font-size: 16px;
+	color: #000;
+}
+
+
+
+
+
